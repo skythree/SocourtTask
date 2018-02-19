@@ -32,8 +32,8 @@ The server is running on nodeJS / Express
 
 ## API Task
 1. Create a database connection ( preferable MongoDB )
-  - You can register a free MongoDB Cloud Cluster on [https://www.mongodb.com/cloud/atlas]https://www.mongodb.com/cloud/atlas by pressing "Free Sandbox" and follow the steps.
-  - Or you can download and install MongoDB on your own computer and use that one [https://docs.mongodb.com/manual/administration/install-community/]https://docs.mongodb.com/manual/administration/install-community/.
+  - You can register a free MongoDB Cloud Cluster on https://www.mongodb.com/cloud/atlas by pressing "Free Sandbox" and follow the steps.
+  - Or you can download and install MongoDB on your own computer and use that one https://docs.mongodb.com/manual/administration/install-community/.
 2. Create Database models for: Genres & Books
   - Book: should have a name, author, genre & dates of creation and last update
   - Genre: should have a name & dates of creation and last update
@@ -51,7 +51,7 @@ The server is running on nodeJS / Express
   - Provide the library information only to authenticated users
 
 ## React task
-  1. Apply routing using ```react-router``` [https://reacttraining.com/react-router/web/guides/philosophy]https://reacttraining.com/react-router/web/guides/philosophy
+  1. Apply routing using ```react-router``` [https://reacttraining.com/react-router/web/guides/philosophy
   2. Create a sidemenu component with filter by genre & a search input.
   3. Create a single Book Component to display the list of books in search and filter screens.
   4. Create a Book Screen with displaying full details of the book on the screen ( When clicked on a book component )
