@@ -1,12 +1,12 @@
 # Description
 
-NodeJS / Express / React
+- NodeJS / Express / React
 
-Server directory: the root of the project
+- Server directory: the root of the project
 
-Client ( React ) directory: /client
+- Client ( React ) directory: /client
 
-React is generated using:
+- React is generated using:
 ```
 create-react-app
 ```
@@ -22,7 +22,7 @@ npm i nodemon -g
 4. Run ```cd ...``` - to go to the root folder again.
 5. Run ```npm run dev```: This will start the server (running server.js with nodemon) & run the react application from the client directory.
 
-#More info
+# More info
 
 There is a proxy configuration in the client part, to map the http://localhost:5000 (Where the server API is running) to http://localhost:3000 (Where the client front end is running): ```"proxy": "http://localhost:5000/",```.
 
