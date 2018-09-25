@@ -62,4 +62,4 @@ The server is running on nodeJS / Express
       - Login screen / Private routes / Reset Password / Sign Up screen
 
 ---
-##### Note: All additional tasks are not mandatory, but will consider a bug plus if they are provided and work as expected.
+##### Note: All additional tasks are not mandatory, but will consider a big plus if they are provided and work as expected.
