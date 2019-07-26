@@ -1,0 +1,7 @@
+const GET_BOOK_DETAILS = 'bookDetails/GET_BOOK_DETAILS'
+const GET_BOOK_DETAILS_SUCCESS = 'bookDetails/GET_BOOK_DETAILS_SUCCESS'
+
+export default {
+    GET_BOOK_DETAILS,
+    GET_BOOK_DETAILS_SUCCESS
+}
